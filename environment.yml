@@ -1,0 +1,14 @@
+channels:
+          - conda-forge
+dependencies:
+          - appmode
+          - pandas
+          - os 
+          - numpy
+          - urllib 
+          - IPython
+          - astropy
+          - cadcutils
+          - cadctap
+          - glue_jupyter
+          - six
