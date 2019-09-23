@@ -7,7 +7,7 @@ dependencies:
     - numpy
     - IPython
     - astropy
-    - cadcutils = 1.1.21.dev0
-    - cadctap = 0.9.4.dev0
-    - git+https://github.com/glue-viz/glue-jupyter.git
+
+
+
    
