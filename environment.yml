@@ -7,7 +7,7 @@ dependencies:
     - numpy
     - IPython
     - astropy
-    - cadcutils = 1.1.21
-    - cadctap = 0.9.4
+    - cadcutils = 1.1.21.dev0
+    - cadctap = 0.9.4.dev0
     - glue_jupyter
    
