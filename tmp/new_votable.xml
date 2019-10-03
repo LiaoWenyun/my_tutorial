@@ -39,1034 +39,116 @@
    <DATA>
     <TABLEDATA>
      <TR>
-      <TD>SNLS-03D1bk</TD>
-      <TD>SNLS-03D1bk</TD>
+      <TD>SNLS-03D4cj</TD>
+      <TD>SNLS-03D4cj</TD>
       <TD>sne</TD>
       <TD>Ia</TD>
-      <TD>-4.5367</TD>
-      <TD>2003/09/28</TD>
+      <TD>-17.704655555555554</TD>
+      <TD>2003/08/26</TD>
       <TD>Supernova Legacy Project</TD>
       <TD>nan</TD>
-      <TD>0.0237</TD>
-      <TD>VVDS 020209246</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
+      <TD>0.0225</TD>
+      <TD>[HSP2005] J221606.66-174216.72</TD>
+      <TD>-17:42:16.72</TD>
+      <TD>0.4732</TD>
+      <TD>1.3530000000000002</TD>
+      <TD>22:16:06.66</TD>
       <TD>MegaCam (g, r, i, z)</TD>
-      <TD>5681</TD>
-      <TD>-19.87</TD>
-      <TD>23.23</TD>
-      <TD>2003-10-03</TD>
-      <TD>SNLS-03D1bk</TD>
-      <TD>19,-8.03,15.5</TD>
-      <TD>36.614225</TD>
-      <TD>NaN</TD>
-      <TD>0.865</TD>
-      <TD>2010A&amp;A...523A...7G,2005ApJ...634.1190H,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2011ApJS..192....1C</TD>
-      <TD>NaN</TD>
-      <TD>1,-2.95</TD>
-      <TD>166000</TD>
-      <TD>NaN</TD>
-      <TD>52895</TD>
-      <TD>53015</TD>
-      <TD>52895 53015</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-03D1cm</TD>
-      <TD>SNLS-03D1cm</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-4.384277777777778</TD>
-      <TD>2003/10/26</TD>
-      <TD>Supernova Legacy Project</TD>
-      <TD>nan</TD>
-      <TD>0.0207</TD>
-      <TD>[HSP2005] J022455.28-042303.68</TD>
-      <TD>-04:23:03.68</TD>
-      <TD>0.3326</TD>
-      <TD>1.69</TD>
-      <TD>02:24:55.28</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>5720</TD>
+      <TD>1420</TD>
       <TD>-19.8</TD>
-      <TD>23.27</TD>
-      <TD>2003-11-19</TD>
-      <TD>SNLS-03D1cm</TD>
-      <TD>22,-17.7,15.9</TD>
-      <TD>36.23028333333333</TD>
+      <TD>20.73</TD>
+      <TD>2003-09-03</TD>
+      <TD>SNLS-03D4cj</TD>
+      <TD>42,-10.3,60.4</TD>
+      <TD>334.0276124999999</TD>
       <TD>NaN</TD>
-      <TD>0.87</TD>
-      <TD>2010A&amp;A...523A...7G,2005ApJ...634.1190H,2016A&amp;A...594A..13P,2010arXiv1006.2112L,2007ApJ...666..694W</TD>
+      <TD>0.27</TD>
+      <TD>2010A&amp;A...523A...7G,2005ApJ...634.1190H,2008ApJ...674...51E,2016A&amp;A...594A..13P,2006AJ....132.1126N</TD>
       <TD>NaN</TD>
-      <TD>1,-12.6</TD>
-      <TD>170000</TD>
+      <TD>2,-6.69,-5.91</TD>
+      <TD>70000</TD>
       <TD>NaN</TD>
-      <TD>52942</TD>
-      <TD>53062</TD>
-      <TD>52942 53062</TD>
+      <TD>52865</TD>
+      <TD>52985</TD>
+      <TD>52865 52985</TD>
      </TR>
      <TR>
-      <TD>SNLS-03D1fq</TD>
-      <TD>SNLS-03D1fq</TD>
+      <TD>SNLS-04D1dc</TD>
+      <TD>SNLS-04D1dc</TD>
       <TD>sne</TD>
       <TD>Ia</TD>
-      <TD>-4.302216666666666</TD>
-      <TD>2003/12/23</TD>
-      <TD>Supernova Legacy Project</TD>
-      <TD>nan</TD>
-      <TD>0.0224</TD>
-      <TD>[HSP2005] J022655.68-041808.10</TD>
-      <TD>-04:18:08.10</TD>
-      <TD>0.2677</TD>
-      <TD>1.55</TD>
-      <TD>02:26:55.68</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>5200</TD>
-      <TD>-20</TD>
-      <TD>23.33</TD>
-      <TD>2003-12-26</TD>
-      <TD>SNLS-03D1fq</TD>
-      <TD>12,-5.13,14.9</TD>
-      <TD>36.73193333333333</TD>
-      <TD>NaN</TD>
-      <TD>0.8</TD>
-      <TD>2010A&amp;A...523A...7G,2005ApJ...634.1190H,2009ApJ...700.1097H,2016A&amp;A...594A..13P,2009ApJS..185...32K</TD>
-      <TD>NaN</TD>
-      <TD>1,-1.39</TD>
-      <TD>200000</TD>
-      <TD>NaN</TD>
-      <TD>52979</TD>
-      <TD>53099</TD>
-      <TD>52979 53099</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-03D4dh</TD>
-      <TD>SNLS-03D4dh</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-17.62965277777778</TD>
-      <TD>2003/09/22</TD>
-      <TD>Supernova Legacy Project</TD>
-      <TD>nan</TD>
-      <TD>0.0247</TD>
-      <TD>[AGR2006] J221731.04-173746.9</TD>
-      <TD>-17:37:46.9</TD>
-      <TD>0.2388</TD>
-      <TD>0.975</TD>
-      <TD>22:17:31.04</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>3832.4</TD>
-      <TD>-19.929000000000002</TD>
-      <TD>22.46</TD>
-      <TD>2003-09-26</TD>
-      <TD>SNLS-03D4dh</TD>
-      <TD>29,-16.7,20.8</TD>
-      <TD>334.37927916666666</TD>
-      <TD>NaN</TD>
-      <TD>0.6268</TD>
-      <TD>2010A&amp;A...523A...7G,2008ApJ...674...51E,2009ApJ...700.1097H,2016A&amp;A...594A..13P,2010arXiv1006.2112L</TD>
-      <TD>NaN</TD>
-      <TD>1,-2.15</TD>
-      <TD>135400</TD>
-      <TD>NaN</TD>
-      <TD>52888</TD>
-      <TD>53008</TD>
-      <TD>52888 53008</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-03D4di</TD>
-      <TD>SNLS-03D4di</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-17.506616666666666</TD>
-      <TD>2003/09/05</TD>
-      <TD>Supernova Legacy Project</TD>
-      <TD>nan</TD>
-      <TD>0.0222</TD>
-      <TD>[AGR2006] J221410.24-173024.1</TD>
-      <TD>-17:30:24.1</TD>
-      <TD>0.2804</TD>
-      <TD>1.203</TD>
-      <TD>22:14:10.24</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>5957</TD>
-      <TD>-20.18</TD>
-      <TD>23</TD>
-      <TD>2003-09-18</TD>
-      <TD>SNLS-03D4di</TD>
-      <TD>18,-12.6,17.8</TD>
-      <TD>333.54266249999995</TD>
-      <TD>NaN</TD>
-      <TD>0.899</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2009ApJ...700.1097H,2010arXiv1006.2112L,2009ApJS..185...32K</TD>
-      <TD>NaN</TD>
-      <TD>2,-6.06</TD>
-      <TD>170000</TD>
-      <TD>NaN</TD>
-      <TD>52880</TD>
-      <TD>53000</TD>
-      <TD>52880 53000</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-04D1de</TD>
-      <TD>SNLS-04D1de</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-4.4226222222222225</TD>
-      <TD>2004/08/17</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0238</TD>
-      <TD>VVDS 020262777</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>4907.4</TD>
-      <TD>-19.866</TD>
-      <TD>22.97</TD>
-      <TD>2004-09-05</TD>
-      <TD>SNLS-04D1de</TD>
-      <TD>31,-14.7,19.2</TD>
-      <TD>36.64962083333333</TD>
-      <TD>NaN</TD>
-      <TD>0.7677</TD>
-      <TD>2010A&amp;A...523A...7G,2005ApJ...634.1190H,2013MNRAS.433.2240G,2011ApJS..192....1C,2016A&amp;A...594A..13P</TD>
-      <TD>NaN</TD>
-      <TD>1,-11</TD>
-      <TD>154400</TD>
-      <TD>NaN</TD>
-      <TD>53233</TD>
-      <TD>53353</TD>
-      <TD>53233 53353</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-04D1iv</TD>
-      <TD>SNLS-04D1iv</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-4.152558333333333</TD>
-      <TD>2004/09/20</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0246</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>6775</TD>
-      <TD>-20.08</TD>
-      <TD>23.32</TD>
-      <TD>2004-10-04</TD>
-      <TD>SNLS-04D1iv</TD>
-      <TD>21,-21.5,8.93</TD>
-      <TD>36.20021249999999</TD>
-      <TD>NaN</TD>
-      <TD>0.998</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2011ApJS..192....1C</TD>
-      <TD>NaN</TD>
-      <TD>1,-6.26</TD>
-      <TD>180000</TD>
-      <TD>NaN</TD>
-      <TD>53262</TD>
-      <TD>53382</TD>
-      <TD>53262 53382</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-04D1jd</TD>
-      <TD>SNLS-04D1jd</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-4.943788888888889</TD>
-      <TD>2004/09/20</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0259</TD>
-      <TD>VVDS:[RBO2008] ir 00023872</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>4988</TD>
-      <TD>-19.82</TD>
-      <TD>23.04</TD>
-      <TD>2004-10-04</TD>
-      <TD>SNLS-04D1jd</TD>
-      <TD>19,-24.2,2.77</TD>
-      <TD>36.961816666666664</TD>
-      <TD>NaN</TD>
-      <TD>0.778</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2011ApJS..192....1C</TD>
-      <TD>NaN</TD>
-      <TD>1,-7.03</TD>
-      <TD>156000</TD>
-      <TD>NaN</TD>
-      <TD>53262</TD>
-      <TD>53382</TD>
-      <TD>53262 53382</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-04D1pc</TD>
-      <TD>SNLS-04D1pc</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-4.3994</TD>
-      <TD>2004/11/13</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.023</TD>
-      <TD>VVDS 020273370</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>4902</TD>
-      <TD>-19.54</TD>
-      <TD>23.29</TD>
-      <TD>2004-11-21</TD>
-      <TD>SNLS-04D1pc</TD>
-      <TD>16,-10.8,12.9</TD>
-      <TD>36.60365</TD>
-      <TD>NaN</TD>
-      <TD>0.767</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2013MNRAS.433.2240G,2011ApJS..192....1C,2016A&amp;A...594A..13P</TD>
-      <TD>NaN</TD>
-      <TD>1,-3.68</TD>
-      <TD>154000</TD>
-      <TD>NaN</TD>
-      <TD>53310</TD>
-      <TD>53430</TD>
-      <TD>53310 53430</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-04D1pd</TD>
-      <TD>SNLS-04D1pd</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-4.631172222222223</TD>
-      <TD>2004/11/11</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0238</TD>
-      <TD>VVDS 020167448</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>6500</TD>
-      <TD>-19.78</TD>
-      <TD>23.55</TD>
-      <TD>2004-11-13</TD>
-      <TD>SNLS-04D1pd</TD>
-      <TD>12,-12.8,4.03</TD>
-      <TD>36.91563333333333</TD>
-      <TD>NaN</TD>
-      <TD>0.965</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2013MNRAS.433.2240G,2012ApJ...748..127F,2011ApJS..192....1C</TD>
-      <TD>NaN</TD>
-      <TD>1,-0.254</TD>
-      <TD>176000</TD>
-      <TD>NaN</TD>
-      <TD>53302</TD>
-      <TD>53422</TD>
-      <TD>53302 53422</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-04D1qd</TD>
-      <TD>SNLS-04D1qd</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-4.107177777777777</TD>
-      <TD>2004/11/17</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0242</TD>
-      <TD>VVDS:[RBO2008] ir 00062666</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>4902</TD>
-      <TD>-19.75</TD>
-      <TD>23.08</TD>
-      <TD>2004-11-19</TD>
-      <TD>SNLS-04D1qd</TD>
-      <TD>19,-9.67,15.7</TD>
-      <TD>36.637812499999995</TD>
-      <TD>NaN</TD>
-      <TD>0.767</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2011ApJS..192....1C</TD>
-      <TD>NaN</TD>
-      <TD>1,-0.283</TD>
-      <TD>154000</TD>
-      <TD>NaN</TD>
-      <TD>53308</TD>
-      <TD>53428</TD>
-      <TD>53308 53428</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-04D1rx</TD>
-      <TD>SNLS-04D1rx</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-4.61835</TD>
-      <TD>2004/12/12</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0213</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>6666</TD>
-      <TD>-19.93</TD>
-      <TD>23.45</TD>
-      <TD>2004-12-14</TD>
-      <TD>SNLS-04D1rx</TD>
-      <TD>15,-12.7,13</TD>
-      <TD>36.295958333333324</TD>
-      <TD>NaN</TD>
-      <TD>0.985</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2011ApJS..192....1C</TD>
-      <TD>NaN</TD>
-      <TD>1,-0.252</TD>
-      <TD>178000</TD>
-      <TD>NaN</TD>
-      <TD>53333</TD>
-      <TD>53453</TD>
-      <TD>53333 53453</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-04D1si</TD>
-      <TD>SNLS-04D1si</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-4.56895</TD>
-      <TD>2004/12/15</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0205</TD>
-      <TD>VVDS:[RBO2008] ir 00050831</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>4399</TD>
-      <TD>-19.73</TD>
-      <TD>22.91</TD>
-      <TD>2004-12-19</TD>
-      <TD>SNLS-04D1si</TD>
-      <TD>19,-8.92,16.3</TD>
-      <TD>36.20331666666666</TD>
-      <TD>NaN</TD>
-      <TD>0.7020000000000001</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2011ApJS..192....1C</TD>
-      <TD>NaN</TD>
-      <TD>1,-2.06</TD>
-      <TD>146000</TD>
-      <TD>NaN</TD>
-      <TD>53338</TD>
-      <TD>53458</TD>
-      <TD>53338 53458</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-04D1sk</TD>
-      <TD>SNLS-04D1sk</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-4.353619444444444</TD>
-      <TD>2004/12/13</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.022000000000000002</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>4106.1</TD>
-      <TD>-19.495</TD>
-      <TD>23.02</TD>
-      <TD>2004-12-19</TD>
-      <TD>SNLS-04D1sk</TD>
-      <TD>18,-9.13,16.1</TD>
-      <TD>36.09490833333333</TD>
-      <TD>NaN</TD>
-      <TD>0.6634</TD>
-      <TD>2010A&amp;A...523A...7G,2008ApJ...674...51E,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2012ApJ...748..127F</TD>
-      <TD>NaN</TD>
-      <TD>1,-3.31</TD>
-      <TD>140600</TD>
-      <TD>NaN</TD>
-      <TD>53338</TD>
-      <TD>53458</TD>
-      <TD>53338 53458</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-04D2ae</TD>
-      <TD>SNLS-04D2ae</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>2.2225333333333332</TD>
-      <TD>2004/01/20</TD>
-      <TD>Supernova Legacy Project</TD>
-      <TD>nan</TD>
-      <TD>0.0142</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>5504</TD>
-      <TD>-19.72</TD>
-      <TD>23.32</TD>
-      <TD>2004-01-22</TD>
-      <TD>SNLS-04D2ae</TD>
-      <TD>6,-2.72,2.75</TD>
-      <TD>150.46809166666668</TD>
-      <TD>NaN</TD>
-      <TD>0.843</TD>
-      <TD>2010A&amp;A...523A...7G,2005ApJ...634.1190H,2016A&amp;A...594A..13P,2011ApJ...737..103S</TD>
-      <TD>NaN</TD>
-      <TD>1,-0.814</TD>
-      <TD>163000</TD>
-      <TD>NaN</TD>
-      <TD>53006</TD>
-      <TD>53126</TD>
-      <TD>53006 53126</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-04D2al</TD>
-      <TD>SNLS-04D2al</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>2.1641055555555555</TD>
-      <TD>2004/01/24</TD>
-      <TD>Supernova Legacy Project</TD>
-      <TD>nan</TD>
-      <TD>0.0146</TD>
-      <TD>COSMOS 1551160</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>5448</TD>
-      <TD>-19.92</TD>
-      <TD>23.1</TD>
-      <TD>2004-01-27</TD>
-      <TD>SNLS-04D2al</TD>
-      <TD>6,-5.46,0.0381</TD>
-      <TD>150.46864583333334</TD>
-      <TD>NaN</TD>
-      <TD>0.836</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2013MNRAS.433.2240G,2016A&amp;A...594A..13P,2011ApJS..192....1C</TD>
-      <TD>NaN</TD>
-      <TD>1,-0.817</TD>
-      <TD>163000</TD>
-      <TD>NaN</TD>
-      <TD>53011</TD>
-      <TD>53131</TD>
-      <TD>53011 53131</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-04D2an</TD>
-      <TD>SNLS-04D2an</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>2.0412305555555554</TD>
-      <TD>2004/01/20</TD>
-      <TD>Supernova Legacy Project</TD>
-      <TD>nan</TD>
-      <TD>0.0151</TD>
-      <TD>[AGR2006] J100052.33+020228.7</TD>
-      <TD>+02:02:28.7</TD>
-      <TD>0.4147</TD>
-      <TD>2.991</TD>
-      <TD>10:00:52.33</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>3780</TD>
-      <TD>-19.7</TD>
-      <TD>22.68</TD>
-      <TD>2004-01-27</TD>
-      <TD>SNLS-04D2an</TD>
-      <TD>7,-6.19,0.0432</TD>
-      <TD>150.21795416666666</TD>
-      <TD>NaN</TD>
-      <TD>0.62</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2009ApJ...704.1036F,2016A&amp;A...594A..13P,2012ApJ...748..127F</TD>
-      <TD>NaN</TD>
-      <TD>2,0.309</TD>
-      <TD>130000</TD>
-      <TD>NaN</TD>
-      <TD>53011</TD>
-      <TD>53131</TD>
-      <TD>53011 53131</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-04D2kr</TD>
-      <TD>SNLS-04D2kr</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>1.7119277777777777</TD>
-      <TD>2004/12/14</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.016</TD>
-      <TD>SDSS J100037.43+014243.7</TD>
-      <TD>+01:42:43.7</TD>
-      <TD>1.5230000000000001</TD>
-      <TD>9.356</TD>
-      <TD>10:00:37.43</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>4723.4</TD>
-      <TD>-20.007</TD>
-      <TD>22.76</TD>
-      <TD>2004-12-16</TD>
-      <TD>SNLS-04D2kr</TD>
-      <TD>26,-3.39,32.1</TD>
-      <TD>150.15559166666665</TD>
-      <TD>NaN</TD>
-      <TD>0.7441</TD>
-      <TD>2010A&amp;A...523A...7G,2008ApJ...674...51E,2011ApJS..192....1C,2016A&amp;A...594A..13P,2013MNRAS.433.2240G</TD>
-      <TD>NaN</TD>
-      <TD>1,-1.43</TD>
-      <TD>151400</TD>
-      <TD>NaN</TD>
-      <TD>53335</TD>
-      <TD>53455</TD>
-      <TD>53335 53455</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-04D3dd</TD>
-      <TD>SNLS-04D3dd</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>52.47067777777778</TD>
-      <TD>2004/04/25</TD>
-      <TD>Supernova Legacy Project</TD>
-      <TD>nan</TD>
-      <TD>0.0067</TD>
-      <TD>GSS 074_5532</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>6808.6</TD>
-      <TD>-19.972</TD>
-      <TD>23.44</TD>
-      <TD>2004-06-13</TD>
-      <TD>SNLS-04D3dd</TD>
-      <TD>12,-37.4,-0.035</TD>
-      <TD>214.4516875</TD>
-      <TD>NaN</TD>
-      <TD>1.002</TD>
-      <TD>2010A&amp;A...523A...7G,2005ApJ...634.1190H,2016A&amp;A...594A..13P,2009ApJS..185...32K,2009ApJ...700.1097H</TD>
-      <TD>NaN</TD>
-      <TD>1,-24.7</TD>
-      <TD>180100</TD>
-      <TD>NaN</TD>
-      <TD>53149</TD>
-      <TD>53269</TD>
-      <TD>53149 53269</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-04D3ks</TD>
-      <TD>SNLS-04D3ks</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>52.18518333333333</TD>
-      <TD>2004/05/22</TD>
-      <TD>Supernova Legacy Project</TD>
-      <TD>nan</TD>
-      <TD>0.0096</TD>
-      <TD>[AGR2006] J142233.47+521107.4</TD>
-      <TD>+52:11:07.4</TD>
-      <TD>1.024</TD>
-      <TD>4.449</TD>
-      <TD>14:22:33.47</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>4785</TD>
-      <TD>-20.26</TD>
-      <TD>22.53</TD>
-      <TD>2004-06-21</TD>
-      <TD>SNLS-04D3ks</TD>
-      <TD>22,-17.7,11.3</TD>
-      <TD>215.63977916666664</TD>
-      <TD>NaN</TD>
-      <TD>0.752</TD>
-      <TD>2010A&amp;A...523A...7G,2009ApJ...700.1097H,2009ApJS..185...32K,2007ApJ...666..694W,2013MNRAS.433.2240G</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>152000</TD>
-      <TD>NaN</TD>
-      <TD>53157</TD>
-      <TD>53277</TD>
-      <TD>53157 53277</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-04D3mk</TD>
-      <TD>SNLS-04D3mk</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>53.163694444444445</TD>
-      <TD>2004/06/18</TD>
-      <TD>Supernova Legacy Project</TD>
-      <TD>nan</TD>
-      <TD>0.0077</TD>
-      <TD>[HSP2005] J141925.83+530949.56</TD>
-      <TD>+53:09:49.56</TD>
-      <TD>0.648</TD>
-      <TD>4.25</TD>
-      <TD>14:19:25.83</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>5265</TD>
-      <TD>-19.87</TD>
-      <TD>23.09</TD>
-      <TD>2004-06-22</TD>
-      <TD>SNLS-04D3mk</TD>
-      <TD>22,-7.26,14.2</TD>
-      <TD>214.85734999999997</TD>
-      <TD>NaN</TD>
-      <TD>0.813</TD>
-      <TD>2010A&amp;A...523A...7G,2005ApJ...634.1190H,2016A&amp;A...594A..13P,2011ApJS..192....1C,2013MNRAS.433.2240G</TD>
-      <TD>NaN</TD>
-      <TD>1,-1.93</TD>
-      <TD>160000</TD>
-      <TD>NaN</TD>
-      <TD>53158</TD>
-      <TD>53278</TD>
-      <TD>53158 53278</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-04D3ml</TD>
-      <TD>SNLS-04D3ml</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>53.09325277777778</TD>
-      <TD>2004/06/19</TD>
-      <TD>Supernova Legacy Project</TD>
-      <TD>nan</TD>
-      <TD>0.009000000000000001</TD>
-      <TD>[HSP2005] J141639.10+530535.66</TD>
-      <TD>+53:05:35.66</TD>
-      <TD>0.2926</TD>
-      <TD>1.368</TD>
-      <TD>14:16:39.10</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>6380</TD>
-      <TD>-20.1</TD>
-      <TD>23.17</TD>
-      <TD>2004-06-26</TD>
-      <TD>SNLS-04D3ml</TD>
-      <TD>17,-8.8,11.2</TD>
-      <TD>214.16278333333332</TD>
-      <TD>NaN</TD>
-      <TD>0.95</TD>
-      <TD>2010A&amp;A...523A...7G,2005ApJ...634.1190H,2009ApJ...700.1097H,2016A&amp;A...594A..13P,2010arXiv1006.2112L</TD>
-      <TD>NaN</TD>
-      <TD>1,-3.33</TD>
-      <TD>170000</TD>
-      <TD>NaN</TD>
-      <TD>53162</TD>
-      <TD>53282</TD>
-      <TD>53162 53282</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-04D3ny</TD>
-      <TD>SNLS-04D3ny</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>52.187463888888885</TD>
-      <TD>2004/07/09</TD>
-      <TD>Supernova Legacy Project</TD>
-      <TD>nan</TD>
-      <TD>0.0086</TD>
-      <TD>[HSP2005] J141856.33+521115.06</TD>
-      <TD>+52:11:15.06</TD>
-      <TD>0.2111</TD>
-      <TD>1.057</TD>
-      <TD>14:18:56.33</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>5240</TD>
-      <TD>-19.9</TD>
-      <TD>23.04</TD>
-      <TD>2004-07-18</TD>
-      <TD>SNLS-04D3ny</TD>
-      <TD>10,-16.1,-0.0829</TD>
-      <TD>214.73466666666664</TD>
-      <TD>NaN</TD>
-      <TD>0.81</TD>
-      <TD>2010A&amp;A...523A...7G,2005ApJ...634.1190H,2009ApJ...700.1097H,2016A&amp;A...594A..13P,2010ApJ...716..712A</TD>
-      <TD>NaN</TD>
-      <TD>1,-4.7</TD>
-      <TD>160000</TD>
-      <TD>NaN</TD>
-      <TD>53184</TD>
-      <TD>53304</TD>
-      <TD>53184 53304</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-04D4bk</TD>
-      <TD>SNLS-04D4bk</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-18.060275</TD>
-      <TD>2004/07/10</TD>
-      <TD>Supernova Legacy Project</TD>
-      <TD>nan</TD>
-      <TD>0.0237</TD>
-      <TD>[AGR2006] J221507.68-180336.7</TD>
-      <TD>-18:03:36.7</TD>
-      <TD>0.4486</TD>
-      <TD>2.14</TD>
-      <TD>22:15:07.68</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>5800</TD>
-      <TD>-20</TD>
-      <TD>23.11</TD>
-      <TD>2004-07-11</TD>
-      <TD>SNLS-04D4bk</TD>
-      <TD>20,-12.8,19.7</TD>
-      <TD>333.78209999999996</TD>
-      <TD>NaN</TD>
-      <TD>0.88</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2009ApJ...700.1097H,2010arXiv1006.2112L,2009ApJS..185...32K</TD>
-      <TD>NaN</TD>
-      <TD>1</TD>
-      <TD>170000</TD>
-      <TD>NaN</TD>
-      <TD>53177</TD>
-      <TD>53297</TD>
-      <TD>53177 53297</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-04D4fx</TD>
-      <TD>SNLS-04D4fx</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-18.066355555555557</TD>
+      <TD>-4.311805555555555</TD>
       <TD>2004/08/10</TD>
       <TD>nan</TD>
       <TD>nan</TD>
-      <TD>0.0242</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
+      <TD>0.0221</TD>
+      <TD>[NSB2006] J022618.47-041843.2</TD>
+      <TD>-04:18:43.2</TD>
+      <TD>1.2590000000000001</TD>
+      <TD>4.471</TD>
+      <TD>02:26:18.47</TD>
       <TD>MegaCam (g, r, i, z)</TD>
-      <TD>3849</TD>
-      <TD>-19.82</TD>
-      <TD>22.58</TD>
-      <TD>2004-08-22</TD>
-      <TD>SNLS-04D4fx</TD>
-      <TD>29,-9.18,29.3</TD>
-      <TD>334.15889999999996</TD>
+      <TD>1074</TD>
+      <TD>-19.3</TD>
+      <TD>20.65</TD>
+      <TD>2004-08-14</TD>
+      <TD>SNLS-04D1dc</TD>
+      <TD>75,-3.24,120</TD>
+      <TD>36.57666666666667</TD>
       <TD>NaN</TD>
-      <TD>0.629</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2011ApJS..192....1C</TD>
+      <TD>0.21100000000000002</TD>
+      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2016A&amp;A...594A..13P,2006AJ....132.1126N,2003yCat.2246....0C</TD>
       <TD>NaN</TD>
       <TD>1</TD>
-      <TD>136000</TD>
+      <TD>56700</TD>
       <TD>NaN</TD>
-      <TD>53219</TD>
-      <TD>53339</TD>
-      <TD>53219 53339</TD>
+      <TD>53211</TD>
+      <TD>53331</TD>
+      <TD>53211 53331</TD>
      </TR>
      <TR>
-      <TD>SNLS-04D4hf</TD>
-      <TD>SNLS-04D4hf</TD>
+      <TD>SNLS-05D1by</TD>
+      <TD>SNLS-05D1by</TD>
       <TD>sne</TD>
       <TD>Ia</TD>
-      <TD>-17.687025000000002</TD>
-      <TD>2004/08/19</TD>
+      <TD>-4.201116666666667</TD>
+      <TD>2005/09/02</TD>
       <TD>nan</TD>
       <TD>nan</TD>
-      <TD>0.0236</TD>
+      <TD>0.024</TD>
       <TD>nan</TD>
       <TD>nan</TD>
       <TD>NaN</TD>
       <TD>NaN</TD>
       <TD>nan</TD>
       <TD>MegaCam (g, r, i, z)</TD>
-      <TD>6260</TD>
-      <TD>-19.66</TD>
-      <TD>23.61</TD>
-      <TD>2004-09-06</TD>
-      <TD>SNLS-04D4hf</TD>
-      <TD>8,-10.3,8.16</TD>
-      <TD>334.24125</TD>
+      <TD>1595</TD>
+      <TD>-18.14</TD>
+      <TD>22.59</TD>
+      <TD>2005-09-04</TD>
+      <TD>SNLS-05D1by</TD>
+      <TD>34,-6.14,67.6</TD>
+      <TD>36.14765416666666</TD>
       <TD>NaN</TD>
-      <TD>0.9359999999999999</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2016A&amp;A...594A..13P,2011ApJS..192....1C,2013MNRAS.433.2240G</TD>
+      <TD>0.299</TD>
+      <TD>2010A&amp;A...523A...7G,2008A&amp;A...477..717B,2016A&amp;A...594A..13P,2011ApJ...737..103S</TD>
       <TD>NaN</TD>
-      <TD>1</TD>
-      <TD>174000</TD>
+      <TD>1,-1.15</TD>
+      <TD>76700</TD>
       <TD>NaN</TD>
-      <TD>53234</TD>
-      <TD>53354</TD>
-      <TD>53234 53354</TD>
+      <TD>53597</TD>
+      <TD>53717</TD>
+      <TD>53597 53717</TD>
      </TR>
      <TR>
-      <TD>SNLS-04D4ic</TD>
-      <TD>SNLS-04D4ic</TD>
+      <TD>SNLS-05D1hk</TD>
+      <TD>SNLS-05D1hk</TD>
       <TD>sne</TD>
       <TD>Ia</TD>
-      <TD>-17.94348611111111</TD>
-      <TD>2004/09/11</TD>
+      <TD>-4.634252777777777</TD>
+      <TD>2005/11/29</TD>
       <TD>nan</TD>
       <TD>nan</TD>
-      <TD>0.0237</TD>
-      <TD>[HSP2005] J221421.84-175636.43</TD>
-      <TD>-17:56:36.43</TD>
-      <TD>0.2331</TD>
-      <TD>1.092</TD>
-      <TD>22:14:21.84</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>4285</TD>
-      <TD>-19.49</TD>
-      <TD>23.1</TD>
-      <TD>2004-09-14</TD>
-      <TD>SNLS-04D4ic</TD>
-      <TD>12,-5.39,4.67</TD>
-      <TD>333.5910583333333</TD>
-      <TD>NaN</TD>
-      <TD>0.687</TD>
-      <TD>2010A&amp;A...523A...7G,2005ApJ...634.1190H,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2011ApJS..192....1C</TD>
-      <TD>NaN</TD>
-      <TD>1,-1.48</TD>
-      <TD>144000</TD>
-      <TD>NaN</TD>
-      <TD>53242</TD>
-      <TD>53362</TD>
-      <TD>53242 53362</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-04D4ii</TD>
-      <TD>SNLS-04D4ii</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-17.657477777777775</TD>
-      <TD>2004/09/14</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0215</TD>
-      <TD>[HSP2005] J221555.64-173927.09</TD>
-      <TD>-17:39:27.09</TD>
-      <TD>0.2049</TD>
-      <TD>1.432</TD>
-      <TD>22:15:55.64</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>5689</TD>
-      <TD>-19.91</TD>
-      <TD>23.19</TD>
-      <TD>2004-09-22</TD>
-      <TD>SNLS-04D4ii</TD>
-      <TD>18,-9.15,22.4</TD>
-      <TD>333.98179999999996</TD>
-      <TD>NaN</TD>
-      <TD>0.866</TD>
-      <TD>2010A&amp;A...523A...7G,2005ApJ...634.1190H,2016A&amp;A...594A..13P,2011ApJS..192....1C,2013MNRAS.433.2240G</TD>
-      <TD>NaN</TD>
-      <TD>1,-4.02</TD>
-      <TD>166000</TD>
-      <TD>NaN</TD>
-      <TD>53250</TD>
-      <TD>53370</TD>
-      <TD>53250 53370</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-05D1ck</TD>
-      <TD>SNLS-05D1ck</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-4.7128000000000005</TD>
-      <TD>2005/09/09</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0228</TD>
-      <TD>VVDS:[RBO2008] ir 00180025</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>3760</TD>
-      <TD>-19.53</TD>
-      <TD>22.82</TD>
-      <TD>2005-09-29</TD>
-      <TD>SNLS-05D1ck</TD>
-      <TD>29,-20.4,15.4</TD>
-      <TD>36.103541666666665</TD>
-      <TD>NaN</TD>
-      <TD>0.617</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2011ApJS..192....1C</TD>
-      <TD>NaN</TD>
-      <TD>1</TD>
-      <TD>134000</TD>
-      <TD>NaN</TD>
-      <TD>53622</TD>
-      <TD>53741.99998842592</TD>
-      <TD>53622 53741.99998842592</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-05D1er</TD>
-      <TD>SNLS-05D1er</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-4.004536111111111</TD>
-      <TD>2005/10/27</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.025</TD>
-      <TD>XMM:[RBO2008] ir 00071187</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>5640</TD>
-      <TD>-19.8</TD>
-      <TD>23.29</TD>
-      <TD>2005-11-01</TD>
-      <TD>SNLS-05D1er</TD>
-      <TD>19,-15,12.8</TD>
-      <TD>36.42273749999999</TD>
-      <TD>NaN</TD>
-      <TD>0.86</TD>
-      <TD>2010A&amp;A...523A...7G,2008A&amp;A...477..717B,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2011ApJS..192....1C</TD>
-      <TD>NaN</TD>
-      <TD>1,-2.42</TD>
-      <TD>170000</TD>
-      <TD>NaN</TD>
-      <TD>53655</TD>
-      <TD>53774.99998842592</TD>
-      <TD>53655 53774.99998842592</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-05D1if</TD>
-      <TD>SNLS-05D1if</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-4.570277777777777</TD>
-      <TD>2005/11/30</TD>
-      <TD>nan</TD>
-      <TD>e</TD>
       <TD>0.021</TD>
       <TD>nan</TD>
       <TD>nan</TD>
@@ -1074,805 +156,125 @@
       <TD>NaN</TD>
       <TD>nan</TD>
       <TD>MegaCam (g, r, i, z)</TD>
-      <TD>4871</TD>
-      <TD>-19.85</TD>
-      <TD>22.97</TD>
+      <TD>1377.8</TD>
+      <TD>-19.712</TD>
+      <TD>20.73</TD>
+      <TD>2005-12-22</TD>
+      <TD>SNLS-05D1hk</TD>
+      <TD>37,-22.2,193</TD>
+      <TD>36.163233333333324</TD>
+      <TD>NaN</TD>
+      <TD>0.2631</TD>
+      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2008ApJ...674...51E,2011ApJS..192....1C,2009ApJ...704.1036F</TD>
+      <TD>NaN</TD>
+      <TD>2,-17.8</TD>
+      <TD>68780</TD>
+      <TD>NaN</TD>
+      <TD>53706</TD>
+      <TD>53825.99998842592</TD>
+      <TD>53706 53825.99998842592</TD>
+     </TR>
+     <TR>
+      <TD>SNLS-05D1iy</TD>
+      <TD>SNLS-05D1iy</TD>
+      <TD>sne</TD>
+      <TD>Ia</TD>
+      <TD>-4.422580555555556</TD>
+      <TD>2005/11/29</TD>
+      <TD>nan</TD>
+      <TD>nan</TD>
+      <TD>0.0222</TD>
+      <TD>nan</TD>
+      <TD>nan</TD>
+      <TD>NaN</TD>
+      <TD>NaN</TD>
+      <TD>nan</TD>
+      <TD>MegaCam (g, r, i, z)</TD>
+      <TD>1287.1</TD>
+      <TD>-19.078</TD>
+      <TD>21.23</TD>
       <TD>2005-12-07</TD>
-      <TD>SNLS-05D1if</TD>
-      <TD>23,-7.4,15.8</TD>
-      <TD>36.12383333333332</TD>
+      <TD>SNLS-05D1iy</TD>
+      <TD>33,-10.5,46.3</TD>
+      <TD>36.91650416666666</TD>
       <TD>NaN</TD>
-      <TD>0.763</TD>
-      <TD>2010A&amp;A...523A...7G,2008ApJ...674...51E,2017arXiv171207379B,2013MNRAS.433.2240G,2011ApJS..192....1C</TD>
+      <TD>0.2478</TD>
+      <TD>2010A&amp;A...523A...7G,2008ApJ...674...51E,2016A&amp;A...594A..13P,2009ApJ...704.1036F,2011ApJ...737..103S</TD>
       <TD>NaN</TD>
-      <TD>1,-3.69</TD>
-      <TD>154000</TD>
+      <TD>1,-6.01</TD>
+      <TD>65310</TD>
       <TD>NaN</TD>
       <TD>53691</TD>
       <TD>53810.99998842592</TD>
       <TD>53691 53810.99998842592</TD>
      </TR>
      <TR>
-      <TD>SNLS-05D1ke</TD>
-      <TD>SNLS-05D1ke</TD>
+      <TD>SNLS-05D3kx</TD>
+      <TD>SNLS-05D3kx</TD>
       <TD>sne</TD>
       <TD>Ia</TD>
-      <TD>-4.862494444444444</TD>
-      <TD>2005/12/29</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0209</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>4310</TD>
-      <TD>-19.9</TD>
-      <TD>22.66</TD>
-      <TD>2005-12-30</TD>
-      <TD>SNLS-05D1ke</TD>
-      <TD>21,-17.3,20.6</TD>
-      <TD>36.69288333333333</TD>
-      <TD>NaN</TD>
-      <TD>0.69</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2012ApJ...748..127F</TD>
-      <TD>NaN</TD>
-      <TD>1</TD>
-      <TD>140000</TD>
-      <TD>NaN</TD>
-      <TD>53714</TD>
-      <TD>53833.99998842592</TD>
-      <TD>53714 53833.99998842592</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-05D2bt</TD>
-      <TD>SNLS-05D2bt</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>2.566161111111111</TD>
-      <TD>2005/02/01</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0172</TD>
-      <TD>COSMOS 2252447</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>4224</TD>
-      <TD>-19.85</TD>
-      <TD>22.72</TD>
-      <TD>2005-02-10</TD>
-      <TD>SNLS-05D2bt</TD>
-      <TD>21,-15.5,32.6</TD>
-      <TD>150.41768333333331</TD>
-      <TD>NaN</TD>
-      <TD>0.679</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2009ApJ...704.1036F,2013MNRAS.433.2240G,2011ApJS..192....1C</TD>
-      <TD>NaN</TD>
-      <TD>1</TD>
-      <TD>143000</TD>
-      <TD>NaN</TD>
-      <TD>53391</TD>
-      <TD>53511</TD>
-      <TD>53391 53511</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-05D2nt</TD>
-      <TD>SNLS-05D2nt</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>2.3727305555555556</TD>
-      <TD>2005/12/25</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0153</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>4824</TD>
-      <TD>-19.81</TD>
-      <TD>23</TD>
-      <TD>2005-12-27</TD>
-      <TD>SNLS-05D2nt</TD>
-      <TD>20,-14.8,23.3</TD>
-      <TD>150.24262083333332</TD>
-      <TD>NaN</TD>
-      <TD>0.757</TD>
-      <TD>2010A&amp;A...523A...7G,2008A&amp;A...477..717B,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2011ApJS..192....1C</TD>
-      <TD>NaN</TD>
-      <TD>1,-0.854</TD>
-      <TD>153000</TD>
-      <TD>NaN</TD>
-      <TD>53711</TD>
-      <TD>53830.99998842592</TD>
-      <TD>53711 53830.99998842592</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-05D2ob</TD>
-      <TD>SNLS-05D2ob</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>1.8489833333333334</TD>
-      <TD>2005/12/27</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0178</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>6162</TD>
-      <TD>-19.6</TD>
-      <TD>23.64</TD>
-      <TD>2005-12-31</TD>
-      <TD>SNLS-05D2ob</TD>
-      <TD>12,-15.6,3.65</TD>
-      <TD>149.75302499999998</TD>
-      <TD>NaN</TD>
-      <TD>0.924</TD>
-      <TD>2010A&amp;A...523A...7G,2008A&amp;A...477..717B,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2011ApJS..192....1C</TD>
-      <TD>NaN</TD>
-      <TD>1,-1.82</TD>
-      <TD>172000</TD>
-      <TD>NaN</TD>
-      <TD>53715</TD>
-      <TD>53834.99998842592</TD>
-      <TD>53715 53834.99998842592</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-05D3ax</TD>
-      <TD>SNLS-05D3ax</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>52.68751944444444</TD>
-      <TD>2005/02/10</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0076</TD>
-      <TD>EGSIRAC J141917.71+524115.5</TD>
-      <TD>+52:41:15.5</TD>
-      <TD>1.232</TD>
-      <TD>7.416</TD>
-      <TD>14:19:17.71</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>3953</TD>
-      <TD>-19.62</TD>
-      <TD>22.83</TD>
-      <TD>2005-02-14</TD>
-      <TD>SNLS-05D3ax</TD>
-      <TD>16,-17.6,18.9</TD>
-      <TD>214.82326249999997</TD>
-      <TD>NaN</TD>
-      <TD>0.643</TD>
-      <TD>2010A&amp;A...523A...7G,2008A&amp;A...477..717B,2011ApJS..192....1C,2016A&amp;A...594A..13P,2013MNRAS.433.2240G</TD>
-      <TD>NaN</TD>
-      <TD>1,-2.13</TD>
-      <TD>138000</TD>
-      <TD>NaN</TD>
-      <TD>53395</TD>
-      <TD>53515</TD>
-      <TD>53395 53515</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-05D3jb</TD>
-      <TD>SNLS-05D3jb</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>52.87813055555556</TD>
-      <TD>2005/05/11</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0077</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>4730</TD>
-      <TD>-20.05</TD>
-      <TD>22.72</TD>
-      <TD>2005-05-29</TD>
-      <TD>SNLS-05D3jb</TD>
-      <TD>35,-14.3,22.2</TD>
-      <TD>215.54165416666666</TD>
-      <TD>NaN</TD>
-      <TD>0.745</TD>
-      <TD>2010A&amp;A...523A...7G,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2011ApJS..192....1C,2011ApJ...737..103S</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>152000</TD>
-      <TD>NaN</TD>
-      <TD>53499</TD>
-      <TD>53619</TD>
-      <TD>53499 53619</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-05D3jk</TD>
-      <TD>SNLS-05D3jk</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>52.592488888888894</TD>
-      <TD>2005/05/11</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0079</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>4661</TD>
-      <TD>-20.11</TD>
-      <TD>22.63</TD>
-      <TD>2005-05-12</TD>
-      <TD>SNLS-05D3jk</TD>
-      <TD>35,-4.63,29.3</TD>
-      <TD>214.19772916666665</TD>
-      <TD>NaN</TD>
-      <TD>0.736</TD>
-      <TD>2010A&amp;A...523A...7G,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2011ApJS..192....1C,2011ApJ...737..103S</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>150000</TD>
-      <TD>NaN</TD>
-      <TD>53482</TD>
-      <TD>53602</TD>
-      <TD>53482 53602</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-05D3kp</TD>
-      <TD>SNLS-05D3kp</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>52.270827777777775</TD>
+      <TD>53.137119444444444</TD>
       <TD>2005/06/08</TD>
       <TD>nan</TD>
       <TD>nan</TD>
       <TD>0.0093</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
+      <TD>[NSB2006] J142150.02+530813.4</TD>
+      <TD>+53:08:13.4</TD>
+      <TD>0.2302</TD>
+      <TD>0.7269</TD>
+      <TD>14:21:50.02</TD>
       <TD>MegaCam (g, r, i, z)</TD>
-      <TD>5560</TD>
-      <TD>-20.2</TD>
-      <TD>22.86</TD>
+      <TD>1120</TD>
+      <TD>-19.61</TD>
+      <TD>20.42</TD>
       <TD>2005-06-13</TD>
-      <TD>SNLS-05D3kp</TD>
-      <TD>28,-17.4,12.9</TD>
-      <TD>215.01226666666665</TD>
+      <TD>SNLS-05D3kx</TD>
+      <TD>42,-13.2,193</TD>
+      <TD>215.45841249999998</TD>
       <TD>NaN</TD>
-      <TD>0.85</TD>
-      <TD>2010A&amp;A...523A...7G,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2011ApJS..192....1C,2011ApJ...737..103S</TD>
+      <TD>0.21899999999999997</TD>
+      <TD>2010A&amp;A...523A...7G,2006AJ....132.1126N,2016A&amp;A...594A..13P,2011ApJS..192....1C,2013MNRAS.433.2240G</TD>
       <TD>NaN</TD>
       <TD>nan</TD>
-      <TD>160000</TD>
+      <TD>58600</TD>
       <TD>NaN</TD>
       <TD>53514</TD>
       <TD>53634</TD>
       <TD>53514 53634</TD>
      </TR>
      <TR>
-      <TD>SNLS-05D3kt</TD>
-      <TD>SNLS-05D3kt</TD>
+      <TD>SNLS-06D3fp</TD>
+      <TD>SNLS-06D3fp</TD>
       <TD>sne</TD>
       <TD>Ia</TD>
-      <TD>52.742986111111115</TD>
-      <TD>2005/06/02</TD>
+      <TD>52.89716388888889</TD>
+      <TD>2006/06/17</TD>
       <TD>nan</TD>
       <TD>nan</TD>
-      <TD>0.0066</TD>
-      <TD>DEEP2 12027456</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>3985.49</TD>
-      <TD>-19.5404</TD>
-      <TD>22.92</TD>
-      <TD>2005-06-13</TD>
-      <TD>SNLS-05D3kt</TD>
-      <TD>27,-9.78,31.4</TD>
-      <TD>214.9738333333333</TD>
-      <TD>NaN</TD>
-      <TD>0.6473409999999999</TD>
-      <TD>2010A&amp;A...523A...7G,2008A&amp;A...477..717B,2013MNRAS.433.2240G,2011ApJS..192....1C,2016A&amp;A...594A..13P</TD>
-      <TD>NaN</TD>
-      <TD>1,-6.37</TD>
-      <TD>138342</TD>
-      <TD>NaN</TD>
-      <TD>53514</TD>
-      <TD>53634</TD>
-      <TD>53514 53634</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-05D3la</TD>
-      <TD>SNLS-05D3la</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>52.35797222222222</TD>
-      <TD>2005/06/08</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0096</TD>
+      <TD>0.0072</TD>
       <TD>nan</TD>
       <TD>nan</TD>
       <TD>NaN</TD>
       <TD>NaN</TD>
       <TD>nan</TD>
       <TD>MegaCam (g, r, i, z)</TD>
-      <TD>6260</TD>
-      <TD>-20.14</TD>
-      <TD>23.13</TD>
-      <TD>2005-06-13</TD>
-      <TD>SNLS-05D3la</TD>
-      <TD>19,-8.32,12.3</TD>
-      <TD>215.3559083333333</TD>
+      <TD>1407</TD>
+      <TD>-19.43</TD>
+      <TD>21.05</TD>
+      <TD>2006-06-20</TD>
+      <TD>SNLS-06D3fp</TD>
+      <TD>32,-18.3,29</TD>
+      <TD>215.07752083333332</TD>
       <TD>NaN</TD>
-      <TD>0.9359999999999999</TD>
-      <TD>2010A&amp;A...523A...7G,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2011ApJS..192....1C,2011ApJ...737..103S</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>174000</TD>
-      <TD>NaN</TD>
-      <TD>53514</TD>
-      <TD>53634</TD>
-      <TD>53514 53634</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-05D3lb</TD>
-      <TD>SNLS-05D3lb</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>53.16792777777778</TD>
-      <TD>2005/06/04</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0089</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>3983</TD>
-      <TD>-19.64</TD>
-      <TD>22.82</TD>
-      <TD>2005-06-06</TD>
-      <TD>SNLS-05D3lb</TD>
-      <TD>27,-13.5,22.9</TD>
-      <TD>214.38232499999995</TD>
-      <TD>NaN</TD>
-      <TD>0.647</TD>
-      <TD>2010A&amp;A...523A...7G,2008A&amp;A...477..717B,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2012ApJ...748..127F</TD>
-      <TD>NaN</TD>
-      <TD>1,-0.911</TD>
-      <TD>138000</TD>
-      <TD>NaN</TD>
-      <TD>53507</TD>
-      <TD>53627</TD>
-      <TD>53507 53627</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-05D4bi</TD>
-      <TD>SNLS-05D4bi</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-17.986069444444446</TD>
-      <TD>2005/07/06</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0239</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>4965</TD>
-      <TD>-20.09</TD>
-      <TD>22.77</TD>
-      <TD>2005-07-07</TD>
-      <TD>SNLS-05D4bi</TD>
-      <TD>16,-4.48,16.3</TD>
-      <TD>333.98562499999997</TD>
-      <TD>NaN</TD>
-      <TD>0.775</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2016A&amp;A...594A..13P,2011ApJS..192....1C,2013MNRAS.433.2240G</TD>
-      <TD>NaN</TD>
-      <TD>1</TD>
-      <TD>155000</TD>
-      <TD>NaN</TD>
-      <TD>53538</TD>
-      <TD>53658</TD>
-      <TD>53538 53658</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-05D4bj</TD>
-      <TD>SNLS-05D4bj</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-18.133405555555555</TD>
-      <TD>2005/07/09</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0242</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>4391</TD>
-      <TD>-19.62</TD>
-      <TD>23.02</TD>
-      <TD>2005-07-13</TD>
-      <TD>SNLS-05D4bj</TD>
-      <TD>27,-8.21,31.1</TD>
-      <TD>333.74859999999995</TD>
-      <TD>NaN</TD>
-      <TD>0.701</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2011ApJS..192....1C</TD>
-      <TD>NaN</TD>
-      <TD>1</TD>
-      <TD>146000</TD>
-      <TD>NaN</TD>
-      <TD>53544</TD>
-      <TD>53664</TD>
-      <TD>53544 53664</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-05D4cn</TD>
-      <TD>SNLS-05D4cn</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-17.288844444444447</TD>
-      <TD>2005/08/01</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0223</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>4871</TD>
-      <TD>-19.81</TD>
-      <TD>23.01</TD>
-      <TD>2005-08-05</TD>
-      <TD>SNLS-05D4cn</TD>
-      <TD>27,-16.4,33.9</TD>
-      <TD>333.38105833333327</TD>
-      <TD>NaN</TD>
-      <TD>0.763</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2008A&amp;A...477..717B,2016A&amp;A...594A..13P,2013MNRAS.433.2240G</TD>
-      <TD>NaN</TD>
-      <TD>2,-1.99</TD>
-      <TD>154000</TD>
-      <TD>NaN</TD>
-      <TD>53567</TD>
-      <TD>53687</TD>
-      <TD>53567 53687</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-05D4cq</TD>
-      <TD>SNLS-05D4cq</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-18.226713888888888</TD>
-      <TD>2005/08/02</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0259</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>4391</TD>
-      <TD>-19.9</TD>
-      <TD>22.74</TD>
-      <TD>2005-08-09</TD>
-      <TD>SNLS-05D4cq</TD>
-      <TD>27,-15.3,19.3</TD>
-      <TD>333.54020833333334</TD>
-      <TD>NaN</TD>
-      <TD>0.701</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2011ApJS..192....1C</TD>
-      <TD>NaN</TD>
-      <TD>1</TD>
-      <TD>146000</TD>
-      <TD>NaN</TD>
-      <TD>53571</TD>
-      <TD>53691</TD>
-      <TD>53571 53691</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-05D4cs</TD>
-      <TD>SNLS-05D4cs</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-17.88015</TD>
-      <TD>2005/08/02</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0248</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>5080</TD>
-      <TD>-20.2</TD>
-      <TD>22.7</TD>
-      <TD>2005-08-09</TD>
-      <TD>SNLS-05D4cs</TD>
-      <TD>32,-14.5,18.3</TD>
-      <TD>334.3242416666667</TD>
-      <TD>NaN</TD>
-      <TD>0.79</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2011ApJS..192....1C</TD>
-      <TD>NaN</TD>
-      <TD>1</TD>
-      <TD>160000</TD>
-      <TD>NaN</TD>
-      <TD>53571</TD>
-      <TD>53691</TD>
-      <TD>53571 53691</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-05D4ev</TD>
-      <TD>SNLS-05D4ev</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-17.70078611111111</TD>
-      <TD>2005/09/10</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0232</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>4553</TD>
-      <TD>-19.36</TD>
-      <TD>23.34</TD>
-      <TD>2005-09-11</TD>
-      <TD>SNLS-05D4ev</TD>
-      <TD>20,-6.48,17.3</TD>
-      <TD>333.3767666666666</TD>
-      <TD>NaN</TD>
-      <TD>0.722</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2016A&amp;A...594A..13P,2011ApJS..192....1C,2013MNRAS.433.2240G</TD>
-      <TD>NaN</TD>
-      <TD>1</TD>
-      <TD>149000</TD>
-      <TD>NaN</TD>
-      <TD>53604</TD>
-      <TD>53724</TD>
-      <TD>53604 53724</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-05D4fe</TD>
-      <TD>SNLS-05D4fe</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-17.52843888888889</TD>
-      <TD>2005/09/25</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0209</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>6658</TD>
-      <TD>-20</TD>
-      <TD>23.37</TD>
-      <TD>2005-09-26</TD>
-      <TD>SNLS-05D4fe</TD>
-      <TD>17,-11.2,7.43</TD>
-      <TD>333.9177833333333</TD>
-      <TD>NaN</TD>
-      <TD>0.9840000000000001</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2016A&amp;A...594A..13P,2011ApJ...737..103S</TD>
-      <TD>NaN</TD>
-      <TD>1</TD>
-      <TD>178000</TD>
-      <TD>NaN</TD>
-      <TD>53619</TD>
-      <TD>53738.99998842592</TD>
-      <TD>53619 53738.99998842592</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-06D2ce</TD>
-      <TD>SNLS-06D2ce</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>2.713313888888889</TD>
-      <TD>2006/03/01</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0174</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>5320</TD>
-      <TD>-20</TD>
-      <TD>22.99</TD>
-      <TD>2006-03-04</TD>
-      <TD>SNLS-06D2ce</TD>
-      <TD>8,-7.79,1.55</TD>
-      <TD>150.4342458333333</TD>
-      <TD>NaN</TD>
-      <TD>0.82</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2016A&amp;A...594A..13P,2011ApJS..192....1C,2011ApJ...737..103S</TD>
-      <TD>NaN</TD>
-      <TD>1</TD>
-      <TD>160000</TD>
-      <TD>NaN</TD>
-      <TD>53778</TD>
-      <TD>53898</TD>
-      <TD>53778 53898</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-06D3cb</TD>
-      <TD>SNLS-06D3cb</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>52.191063888888884</TD>
-      <TD>2006/02/02</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0087</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>7103</TD>
-      <TD>-20.235</TD>
-      <TD>23.25</TD>
-      <TD>2006-02-03</TD>
-      <TD>SNLS-06D3cb</TD>
-      <TD>8,-1.42,14.3</TD>
-      <TD>215.18155833333333</TD>
-      <TD>NaN</TD>
-      <TD>1.037</TD>
-      <TD>2010A&amp;A...523A...7G,2016A&amp;A...594A..13P,2011ApJ...737..103S</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>183400</TD>
-      <TD>NaN</TD>
-      <TD>53749</TD>
-      <TD>53869</TD>
-      <TD>53749 53869</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-06D3gh</TD>
-      <TD>SNLS-06D3gh</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>52.44290833333333</TD>
-      <TD>2006/06/29</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0078</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>4540</TD>
-      <TD>-19.8</TD>
-      <TD>22.89</TD>
-      <TD>2006-07-03</TD>
-      <TD>SNLS-06D3gh</TD>
-      <TD>16,-7.67,13.8</TD>
-      <TD>214.6309125</TD>
-      <TD>NaN</TD>
-      <TD>0.72</TD>
+      <TD>0.268</TD>
       <TD>2010A&amp;A...523A...7G,2011MNRAS.410.1262W,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2012ApJ...748..127F</TD>
       <TD>NaN</TD>
-      <TD>1,-2.03</TD>
-      <TD>150000</TD>
+      <TD>1,-1.97</TD>
+      <TD>69900</TD>
       <TD>NaN</TD>
-      <TD>53899</TD>
-      <TD>54019</TD>
-      <TD>53899 54019</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-06D4ce</TD>
-      <TD>SNLS-06D4ce</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-17.235936111111112</TD>
-      <TD>2006/07/18</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0239</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>5560</TD>
-      <TD>-20</TD>
-      <TD>23.02</TD>
-      <TD>2006-07-19</TD>
-      <TD>SNLS-06D4ce</TD>
-      <TD>20,-14,18.8</TD>
-      <TD>334.3218541666667</TD>
-      <TD>NaN</TD>
-      <TD>0.85</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2011ApJS..192....1C</TD>
-      <TD>NaN</TD>
-      <TD>2</TD>
-      <TD>160000</TD>
-      <TD>NaN</TD>
-      <TD>53915</TD>
-      <TD>54035</TD>
-      <TD>53915 54035</TD>
-     </TR>
-     <TR>
-      <TD>SNLS-06D4cl</TD>
-      <TD>SNLS-06D4cl</TD>
-      <TD>sne</TD>
-      <TD>Ia</TD>
-      <TD>-17.450633333333332</TD>
-      <TD>2006/07/20</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>0.0235</TD>
-      <TD>nan</TD>
-      <TD>nan</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
-      <TD>nan</TD>
-      <TD>MegaCam (g, r, i, z)</TD>
-      <TD>6800</TD>
-      <TD>-20</TD>
-      <TD>23.34</TD>
-      <TD>2006-07-27</TD>
-      <TD>SNLS-06D4cl</TD>
-      <TD>18,-14,15.9</TD>
-      <TD>334.23772083333324</TD>
-      <TD>NaN</TD>
-      <TD>1</TD>
-      <TD>2010A&amp;A...523A...7G,2009A&amp;A...507...85B,2016A&amp;A...594A..13P,2013MNRAS.433.2240G,2011ApJS..192....1C</TD>
-      <TD>NaN</TD>
-      <TD>1</TD>
-      <TD>200000</TD>
-      <TD>NaN</TD>
-      <TD>53923</TD>
-      <TD>54043</TD>
-      <TD>53923 54043</TD>
+      <TD>53886</TD>
+      <TD>54006</TD>
+      <TD>53886 54006</TD>
      </TR>
     </TABLEDATA>
    </DATA>
