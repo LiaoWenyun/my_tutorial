@@ -1,0 +1,5 @@
+
+To run flake8 :
+1. install conttest 
+2. $conttest "jupyter nbconvert SuperNova.ipynb --stdout --to script | flake8 -"
+
