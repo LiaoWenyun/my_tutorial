@@ -14,4 +14,4 @@ dependencies:
             - cadctap
             - git+https://github.com/glue-viz/glue-jupyter.git
             - ipyvuetify
-
+            - astroquery
