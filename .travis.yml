@@ -7,7 +7,7 @@ python:
 before_install:
         - echo "Start Installation"
         - sudo apt-get update
-        - sudo pip install --upgrade pip 
+        - sudo pip3 install --upgrade pip 
 
 
 install:
