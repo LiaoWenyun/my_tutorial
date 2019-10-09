@@ -6,8 +6,7 @@ python:
 
 before_install:
         - echo "Start Installation"
-        - sudo apt-get update
-        - sudo get-apt install python3-pip  
+        - sudo apt-get update 
 
 
 install:
