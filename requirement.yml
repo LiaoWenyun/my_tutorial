@@ -1,0 +1,13 @@
+name: travis_anaconda_jupyter
+channels:
+- defaults 
+dependencies:
+- python = 3.6
+- jupyter
+- pytest
+- appmode
+- pandas
+- IPython
+- astropy
+- pytest
+
