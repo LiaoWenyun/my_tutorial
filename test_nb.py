@@ -9,4 +9,4 @@ def _exec_notebook(path):
 		subprocess.check_call(args)
 
 def test():
-	_exec_notebook('example.ipynb')
+	_exec_notebook('SuperNova.ipynb')
