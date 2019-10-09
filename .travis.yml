@@ -18,11 +18,7 @@ install:
         - conda update -q conda
         - conda info -a
         - conda env create -n test-environment python=$TRAVIS_PYTHON_VERSION -f environment.yml
-        - source activate test-environment 
-        - pip install appmode
-        - jupyter nbextension enable --py --sys-prefix appmode
-        - jupyter serverextension enbale --py --sys-prefix apppmode
- 
+        - source activate test-environment
 
 script:
         - py.test
