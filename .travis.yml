@@ -22,6 +22,7 @@ install:
 
 script:
         - py.test
+        - conttest "jupyter nbconvert SuperNova.ipynb --stdout --to script | flake8 -"
 
 after_success:
         - echo "Build success"
