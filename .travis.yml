@@ -17,16 +17,12 @@ install:
         - conda config --set always_yes yes --set changeps1 no
         - conda update -q conda
         - conda info -a
-        - conda env create -n test-environment python=$TRAVIS_PYTHON_VERSION -f requirement.yml
+        - conda env create -n test-environment python=$TRAVIS_PYTHON_VERSION -f environment.yml
         - source activate test-environment 
         - pip install appmode
         - jupyter nbextension enable --py --sys-prefix appmode
         - jupyter serverextension enbale --py --sys-prefix apppmode
-        - pip install git+https://github.com/glue-viz/glue-jupyter.git
-        - pip install cadcutils
-        - pip install cadctap
-        - pip install ipywidgets
-        - pip install ipyvuetify
+ 
 
 script:
         - py.test
