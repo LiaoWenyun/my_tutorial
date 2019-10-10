@@ -5,7 +5,8 @@ python:
 
 before_install:
         - echo "Start Installation"
-        - sudo apt-get update 
+        - sudo apt-get update
+        - sudo apt-get install -y fitsverify 
 
 
 install:
@@ -20,7 +21,7 @@ install:
         - source activate test-environment
 
 script:
-        - for i in $(ls -d */ ); do
+        - for i in $(ls -d */); do
             cd $i;
             py.test;
             jupyter nbconvert $i --stdout --to python --PythonExporter.exclude_markdown=True| flake8 - --max-line-length 120 --ignore=F841,W391; 
