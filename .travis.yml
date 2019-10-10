@@ -2,7 +2,6 @@ language: python
 
 python: 
         - 3.6
-        - 3.7
 
 before_install:
         - echo "Start Installation"
@@ -21,8 +20,15 @@ install:
         - source activate test-environment
 
 script:
-        - py.test
-        - jupyter nbconvert SuperNova.ipynb --stdout --to script | flake8 - --max-line-length 120 --ignore=F841,W391 
+        - for i in $(ls -d */ ); do
+            cd $i;
+            py.test;
+            jupyter nbconvert $i --stdout --to python --PythonExporter.exclude_markdown=True| flake8 - --max-line-length 120 --ignore=F841,W391; 
+            fi;
+            cd ..;
+            done
+
 
 after_success:
         - echo "Build success"
+ 
