@@ -21,13 +21,10 @@ install:
 
 script:
         - for i in $(ls -d */); do
+            echo $i;
             cd $i;
             py.test || exit 1;
-
-            
-            
             jupyter nbconvert SuperNova.ipynb --stdout --to python --PythonExporter.exclude_markdown=True| flake8 - --max-line-length 120 --ignore=F841,W391 || exit -1; 
-            
             cd ..;
             done
 
