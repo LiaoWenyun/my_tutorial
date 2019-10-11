@@ -2,7 +2,7 @@ show the badge:
 
 .. image:: https://travis-ci.org/LiaoWenyun/my_tutorial.svg?brach=master
     :target: https://travis-ci.org/LiaoWenyun/my_tutorial
-    :alt Travis CI Status
+    :alt: Travis CI Status
 
 show other badge
 
