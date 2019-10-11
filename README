@@ -7,10 +7,11 @@ show other badge
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
 To run flake8 :
-
-.. image:: https://img.shields.io/travis/LiaoWenyun/my_tutorial/master.svg
-    :target: https://travis-ci.org//LiaoWenyun/my_tutoria?branch=master
-
+    
+ .. image:: https://travis-ci.org/LiaoWenyun/my_tutorial.svg?branch=master
+   :target: https://travis-ci.org/LiaoWenyun/my_tutorial
+   :alt: Travis CI Status
+   
 1. install conttest 
 2. $conttest "jupyter nbconvert SuperNova.ipynb --stdout --to script | flake8 -"
 
