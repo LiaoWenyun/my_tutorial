@@ -2,11 +2,10 @@ language: python
 
 python: 
         - 3.6
-        - 3.7
 
 before_install:
         - echo "Start Installation"
-        - sudo apt-get update 
+        - sudo apt-get update
 
 
 install:
@@ -21,8 +20,18 @@ install:
         - source activate test-environment
 
 script:
-        - py.test
-        - conttest "jupyter nbconvert SuperNova.ipynb --stdout --to script | flake8 - --exit-zero"
+        - for i in $(ls -d */); do
+            echo $i;
+            cd $i;
+            py.test || exit 1;
+            echo $i;
+            if [[ "$i" == "SuperNova/" ]]; then
+            jupyter nbconvert SuperNova.ipynb --stdout --to python --PythonExporter.exclude_markdown=True| flake8 - --max-line-length 120 --ignore=F841,W391 || exit -1; 
+            fi;
+            cd ..;
+            done
+
 
 after_success:
         - echo "Build success"
+ 
