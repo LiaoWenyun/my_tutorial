@@ -8,6 +8,9 @@ show other badge
 
 To run flake8 :
 
+.. image:: https://img.shields.io/travis/LiaoWenyun/my_tutorial/master.svg
+    :target: https://travis-ci.org//LiaoWenyun/my_tutoria?branch=master
+
 1. install conttest 
 2. $conttest "jupyter nbconvert SuperNova.ipynb --stdout --to script | flake8 -"
 
