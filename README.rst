@@ -1,6 +1,12 @@
-generic badge :
+  
+.. image:: https://img.shields.io/badge/python-3.6-blue.svg
+    :target: https://python.org/downloads/release/python-360/
 
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+
+.. image:: https://travis-ci.org/LiaoWenyun/my_tutorial.svg?branch=master
+    :target: https://travis-ci.org/LiaoWenyun/my_tutorial
+
+
 
 To run flake8 :
    
