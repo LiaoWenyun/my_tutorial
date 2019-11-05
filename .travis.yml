@@ -25,9 +25,9 @@ script:
             cd $i;
             py.test || exit 1;
             echo $i;
-            if [[ "$i" == "SuperNova/" ]]; then
-            jupyter nbconvert SuperNova.ipynb --stdout --to python --PythonExporter.exclude_markdown=True| flake8 - --ignore=F841,W391 || exit -1; 
-            fi;
+            #if [[ "$i" == "SuperNova/" ]]; then
+            jupyter nbconvert $i.ipynb --stdout --to python --PythonExporter.exclude_markdown=True| flake8 - --ignore=F841,W391 || exit -1; 
+            #fi;
             cd ..;
             done
 
