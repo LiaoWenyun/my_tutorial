@@ -8,8 +8,8 @@ dependencies:
     - IPython
     - astropy
     - python
-    - pip3
-    - pip3:
+    - pip
+    - pip:
             - pyvo
             - cadcutils
             - cadctap
