@@ -1,6 +1,6 @@
 Click the binder badge to try it live without installing anything.
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/oschuett/appmode/master?urlpath=%2Fapps%2Fexample_app.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LiaoWenyun/my_tutorial/master)
 
 A development environment for MegaPrimeImage can be created:
 
